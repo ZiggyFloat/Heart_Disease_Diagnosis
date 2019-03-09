@@ -4,4 +4,5 @@ Academic project predicting heart disease based on different features using mach
   - Logistic regression with all features and features subset selection
   - Trees: Decision trees, random forest and gradient boost
   - Neural networks (MLP classifier)
+  
 If notebook is not loading, paste the GitHub url into https://nbviewer.jupyter.org/.
